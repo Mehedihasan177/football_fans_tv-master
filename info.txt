@@ -1,0 +1,8 @@
+https://tsports.xyz/phpmyadminfr/
+doadmin
+AVNS_WIPloFsLLgDXzdN4Yba
+
+
+ssh root@137.184.122.24
+emWin@6808r
+/var/www/html# footballfanstv.fr/

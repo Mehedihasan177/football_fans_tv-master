@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087788234709",
+    "project_id": "footballfanstv-f54b5",
+    "storage_bucket": "footballfanstv-f54b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087788234709:android:f0df81958ad0ff7fda2f5c",
+        "android_client_info": {
+          "package_name": "fr.footballfanstv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087788234709-2rej9iq8is50rk3uf05t7a5pf7ce7l1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.footballfanstv.app",
+            "certificate_hash": "9d4062d572ee7523fe91701d83c56561586f7041"
+          }
+        },
+        {
+          "client_id": "1087788234709-n547a0jnbjja78r00arkrlsg7eo1lgpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWHrU9npBKMQNnacoK3rHVd5_pRTPLO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087788234709-n547a0jnbjja78r00arkrlsg7eo1lgpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
